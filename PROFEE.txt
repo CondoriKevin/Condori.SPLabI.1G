@@ -1,0 +1,3 @@
+Profe no se por que pero cuando vuelvo a abir el proyecto no se abre con los
+Files.h y flies.c...en la imagen se ve que yo trabaje normalmente pero al volverlo a abrir no tiene los files..
+Bueno llegue a hacer las funciones ll_filter y ll_map aunque no las llegue a aplicar...

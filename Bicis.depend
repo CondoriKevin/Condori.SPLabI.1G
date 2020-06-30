@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1593464685 source:c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcialposta\avion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avion.h"
+	"validaciones.h"
+
+1593463832 c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcialposta\avion.h
+	"LinkedList.h"
+
+1593478483 c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcialposta\linkedlist.h
+
+1593438328 c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcialposta\validaciones.h
+
+1593476918 source:c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcialposta\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicleta.h"
+	"controller.h"
+	"validaciones.h"
+	"parce.h"
+	<ctype.h>
+	<string.h>
+
+1593475634 c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcialposta\controller.h
+	"LinkedList.h"
+
+1593474798 c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcialposta\parce.h
+	"LinkedList.h"
+
+1593478472 source:c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcialposta\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593476160 source:c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcialposta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"bicicleta.h"
+
+1593477344 source:c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcialposta\parce.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicleta.h"
+
+1593438513 source:c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcialposta\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1593477244 c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcialposta\bicicleta.h
+	"LinkedList.h"
+
+1593476258 source:c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcialposta\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"validaciones.h"
+
+1593479699 source:c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcial\segundoparcialposta\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"validaciones.h"
+
+1593479698 c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcial\segundoparcialposta\bicicleta.h
+	"LinkedList.h"
+
+1593478483 c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcial\segundoparcialposta\linkedlist.h
+
+1593438328 c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcial\segundoparcialposta\validaciones.h
+
+1593476918 source:c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcial\segundoparcialposta\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicleta.h"
+	"controller.h"
+	"validaciones.h"
+	"parce.h"
+	<ctype.h>
+	<string.h>
+
+1593475634 c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcial\segundoparcialposta\controller.h
+	"LinkedList.h"
+
+1593474798 c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcial\segundoparcialposta\parce.h
+	"LinkedList.h"
+
+1593479737 source:c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcial\segundoparcialposta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"bicicleta.h"
+
+1593477344 source:c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcial\segundoparcialposta\parce.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicleta.h"
+
+1593438513 source:c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcial\segundoparcialposta\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1593478513 source:c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\segundoparcial\segundoparcialposta\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+

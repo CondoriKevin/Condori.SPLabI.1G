@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1593456544 source:c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\aver\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593456544 c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\aver\linkedlist.h
+
+1593466034 source:c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\aver\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"avion.h"
+
+1593466034 source:c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\aver\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"avion.h"
+	"controller.h"
+	"validaciones.h"
+	"parce.h"
+	<ctype.h>
+	<string.h>
+
+1593464994 source:c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\aver\parce.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"avion.h"
+
+1593463832 c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\aver\avion.h
+	"LinkedList.h"
+
+1593455355 c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\aver\controller.h
+	"LinkedList.h"
+
+1593438328 c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\aver\validaciones.h
+
+1593443710 c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\aver\parce.h
+	"LinkedList.h"
+
+1593438513 source:c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\aver\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1593464685 source:c:\users\pc kevin\desktop\programacion de la facu\segundo parcial\aver\avion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avion.h"
+	"validaciones.h"
+
